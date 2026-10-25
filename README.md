@@ -86,4 +86,8 @@ CREATE TABLE trade_audit (
     bars_held INTEGER,
     capital_after_trade REAL
 );
+Overall Project Readiness: [ 20% ] ▓▓░░░░░░░░░░░░░░░░░░
 
+---
+
+Ise save karne ke baad bata, fir **Phase 2** ke pehle do items—**Telegram Bot Token** aur **Free Data Stream setup** par kaam shuru karte hain!
